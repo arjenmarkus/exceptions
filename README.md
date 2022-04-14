@@ -81,7 +81,7 @@ operation.
 
 `exceptions.f90` - basic implementation of an exceptions module
 
-# Builing the example
+# Building the example
 
 First build the preprocessor program in `prepare_expections.f90`
 
